@@ -1,0 +1,7 @@
+{
+  "name": "Ötüken Remote",
+  "description": "Göktürk temalı, güvenli ve kişisel kullanıma uygun WebRTC tabanlı uzak masaüstü yönetim arayüzü.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
